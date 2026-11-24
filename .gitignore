@@ -221,3 +221,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# FPGA / Vivado / Quartus build artifacts
+*.jou
+*.log
+*.str
+*.bit
+*.bin
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
